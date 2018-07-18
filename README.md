@@ -6,3 +6,5 @@ As a part of the Udacity VR Nanodegree, this project is intended to introduce st
 The goal was to create a cohesive “ mobile virtual reality experience with ‘information booths’ which include both visual and audio feedback for users”. The gathered information could be about VR companies, VR applications, or potential industries that could be impacted by VR.
 
 The experience is designed as an information system offered by a college basically medical college, ‘Medical & Education and VR.
+
+The user can go around the the different Display panel to learn about different ways VR can be used for Medical and Educaton purposes & Military and some of the companies currently producing applications.
