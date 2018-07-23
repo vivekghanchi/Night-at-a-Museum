@@ -8,3 +8,5 @@ The goal was to create a cohesive “ mobile virtual reality experience with ‘
 The experience is designed as an information system offered by a college basically medical college, ‘Medical & Education and VR.
 
 The user can go around the the different Display panel to learn about different ways VR can be used for Medical and Educaton purposes & Military and some of the companies currently producing applications.
+
+## Experience Description
