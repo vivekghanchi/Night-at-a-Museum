@@ -22,3 +22,5 @@ You start in a Space with start experience button after clicking strat it will e
 
 ### Test 1: Scale
 
+The first round of user testing I conducted was validating the scaling. I performed many quick builds onto my phone to adjust the scale with the environment, height, etc. Once I felt like it was at a good place, I presented it with another user. They confirmed that the scaling was accurate.
+
