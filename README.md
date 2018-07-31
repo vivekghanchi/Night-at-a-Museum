@@ -26,3 +26,5 @@ The first round of user testing I conducted was validating the scaling. I perfor
 
 ### Test 2: UI Design
 The second round of user testing involved testing the UI designs and validate that the interaction worked well. A small update to the position on the play/stop button on one of the UI’s was needed, but everything else seemed right.
+
+### Test 3: Locomation
