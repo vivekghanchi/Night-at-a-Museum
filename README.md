@@ -30,6 +30,6 @@ The second round of user testing involved testing the UI designs and validate th
 ### Test 3: Locomation
 This tested moving between the waypoints. From a design perspective, I decided to go with waypoints for my method of locomotion for two reasons:
 
-Movement from one location to the next is instantaneous
-It’s quick
+- Movement from one location to the next is instantaneous
+- It’s quick
 Given the high number of waypoints in the scene, I felt it was important to have movement quick, but without any chance of locomotion sickness. I tested this with two users, and they did not have any issues.
