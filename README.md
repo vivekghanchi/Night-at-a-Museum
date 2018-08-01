@@ -34,3 +34,5 @@ This tested moving between the waypoints. From a design perspective, I decided t
 - It’s quick
 
 Given the high number of waypoints in the scene, I felt it was important to have movement quick, but without any chance of locomotion sickness. I tested this with two users, and they did not have any issues.
+
+### Test 4: Final Playthrough
