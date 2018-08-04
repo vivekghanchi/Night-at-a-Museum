@@ -38,3 +38,5 @@ Given the high number of waypoints in the scene, I felt it was important to have
 ### Test 4: Final Playthrough
 
 The user was able to navigate the experience easily. They were also able to efficiently learn about foveated rendering and had a positive experience in the process.
+
+## Interation
