@@ -45,3 +45,5 @@ Given the high number of waypoints in the scene, I felt it was important to have
 The user was able to navigate the experience easily and smoothly. They were also able to efficiently learn about foveated rendering and had a positive experience in the process.
 
 ## Interation
+
+As per user feedback, added stop button to videos so will be easily to stop and play the next video. Rest all seems good to user.
