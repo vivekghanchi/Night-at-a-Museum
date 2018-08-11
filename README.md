@@ -47,3 +47,5 @@ The user was able to navigate the experience easily and smoothly. They were also
 ## Interation
 
 As per user feedback, added stop button to videos so will be easily to stop and play the next video. Rest all seems good to user.
+
+## Final Breakdown of the Project
