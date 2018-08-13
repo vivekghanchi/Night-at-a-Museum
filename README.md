@@ -49,3 +49,5 @@ The user was able to navigate the experience easily and smoothly. They were also
 As per user feedback, added stop button to videos so will be easily to stop and play the next video. Rest all seems good to user.
 
 ## Final Breakdown of the Project
+
+This application start with a main menu where user will start the experience using start button and will enter the exhibition.
