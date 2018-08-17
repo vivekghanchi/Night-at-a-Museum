@@ -53,4 +53,4 @@ As per user feedback, added stop button to videos so will be easily to stop and 
 This application start with a main menu where user will start the experience using start button and will enter the exhibition.
 
 Here i have created a VR experience showing a city exhibition. where a display is provided with information how to navigate in the scene.
-Here i have created a VR experience showing a city exhibition. where a display is provided with information how to navigate in the scene.
+
