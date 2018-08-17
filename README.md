@@ -54,3 +54,5 @@ This application start with a main menu where user will start the experience usi
 
 Here i have created a VR experience showing a city exhibition. where a display is provided with information how to navigate in the scene.
 
+The user is in the center of a display area where there are 5 displays.
+
