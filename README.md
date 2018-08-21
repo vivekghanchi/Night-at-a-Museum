@@ -56,3 +56,5 @@ Here i have created a VR experience showing a city exhibition. where a display i
 
 The user is in the center of a display area where there are 5 displays.
 
+He/She can navigate to all the displays and watch how VR is impacting education,medical military .
+
