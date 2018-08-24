@@ -59,3 +59,5 @@ The user is in the center of a display area where there are 5 displays.
 He/She can navigate to all the displays and watch how VR is impacting education,medical military .
 
 The user can navigate to the display by clicking the visit button above the display.
+
+For displaying the city, a cubemap skybox is used.
