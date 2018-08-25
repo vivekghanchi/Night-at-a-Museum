@@ -64,4 +64,4 @@ The user can navigate to the display by clicking the visit button above the disp
 
 For displaying the city, a cubemap skybox is used.
 
-### Conclusion
+## Conclusion
