@@ -23,6 +23,8 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 “Night at the Museum’ is a mobile VR application for beginners, allowing them to learn about the different ways they can include VR in their learning and industry.”
 
+### Sketches
+
 ## User Testing
 
 ### Test 1: Scale
