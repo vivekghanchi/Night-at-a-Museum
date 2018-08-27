@@ -23,7 +23,7 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 “Night at the Museum’ is a mobile VR application for beginners, allowing them to learn about the different ways they can include VR in their learning and industry.”
 
-### Sketches
+## Sketches
 
 ![img_20180711_114042](https://user-images.githubusercontent.com/21164980/44641919-382fdb00-a9e7-11e8-8392-f770057a4467.jpg)
 
