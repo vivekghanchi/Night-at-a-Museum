@@ -27,6 +27,9 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 ![img_20180711_114042](https://user-images.githubusercontent.com/21164980/44641919-382fdb00-a9e7-11e8-8392-f770057a4467.jpg)
 
+![img_20180711_114052](https://user-images.githubusercontent.com/21164980/44704080-afcd3b00-aab7-11e8-9702-6b6c8a053c2d.jpg)
+
+
 
 ## User Testing
 
