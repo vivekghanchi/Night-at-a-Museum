@@ -75,3 +75,5 @@ The user can navigate to the display by clicking the visit button above the disp
 For displaying the city, a cubemap skybox is used.
 
 ## Conclusion
+
+This was the first time I had the opportunity to build an entire mobile VR application from scratch, and as such, hit many roadblocks. Completing this project in a timely mannor was a testiment to my dedication and organizational skills. I can’t wait to continue on and complete the specializations within the nanodegree.
