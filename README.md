@@ -25,6 +25,8 @@ alt="IMAGE ALT TEXT HERE" width="2400" height="500" border="10" /></a>
 
 ##Persona
 
+Divyansh Mali, 22— Medical Student
+
 ## Sketches
 
 ![img_20180711_114042](https://user-images.githubusercontent.com/21164980/44641919-382fdb00-a9e7-11e8-8392-f770057a4467.jpg)
