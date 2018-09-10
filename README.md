@@ -29,6 +29,8 @@ Divyansh Mali, 22— Medical Student
 
 “I want to learn as quickly as possible”
 
+For this project I created a persona named Vivek Ghanchi. Aside from being a student in Medical school, Vivek loves the potential of emerging technologies and is interested in pursuing Intellectual Property medicalas a career.
+
 ## Sketches
 
 ![img_20180711_114042](https://user-images.githubusercontent.com/21164980/44641919-382fdb00-a9e7-11e8-8392-f770057a4467.jpg)
