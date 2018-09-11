@@ -31,6 +31,8 @@ Divyansh Mali, 22— Medical Student
 
 For this project I created a persona named Divyansh Mali. Aside from being a student in Medical school, Divyansh loves the potential of emerging technologies and is interested in pursuing Intellectual Property medicalas a career.
 
+VR Experience — Tried it briefly at a event.
+
 ## Sketches
 
 ![img_20180711_114042](https://user-images.githubusercontent.com/21164980/44641919-382fdb00-a9e7-11e8-8392-f770057a4467.jpg)
